@@ -40,7 +40,7 @@ const char* password = "kWbmpj8Akhha";
 const char* city = "";
 auto city_done = 0;
 const char* ip ="";
-const char* apiKey = "c4788cf2ee27f81aed6fb861aa4d0d10";
+const char* apiKey = "c***********************0";
 //Global Var to be used for weather and times
 double temperature =0 ;
 unsigned long unixTimestamp = 0;
