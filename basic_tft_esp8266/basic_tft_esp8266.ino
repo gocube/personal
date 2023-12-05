@@ -1,6 +1,5 @@
 /**********************************************************************
-Basic runable script for ESP8266 and 4.0" tft LCD SPI fillScreen
-Interfacing follow https://simple-circuit.com/esp8266-nodemcu-ili9341-tft-display/
+/*Copyright Peter Leung 2023*/
  **********************************************************************/
 
 
