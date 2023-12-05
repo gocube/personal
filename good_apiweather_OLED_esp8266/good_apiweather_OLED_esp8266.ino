@@ -1,3 +1,4 @@
+/*Copyright Peter Leung 2023*/
 /*Automatic get location (by IP) => Auto get weather information
 Device: SSD1306 OLED, ESP8266
 
@@ -8,7 +9,7 @@ VDD     3V3
 SCK     D1
 SDA     D2
 
-20230919 1517: Project pass QA. Can build base on this */
+20230919 1517: Project ok. Can build base on this */
 
 
 #include <SPI.h>
