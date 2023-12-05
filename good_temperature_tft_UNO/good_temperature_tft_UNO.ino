@@ -1,4 +1,4 @@
-/*
+/*Copyright Peter Leung 2023*//*
 Runtime Enviroment: UNO
 Sensor: AHT10 , TFT 2.6 LCD SHIELD
 20230913 1211: AHT10 + TFT works fine
